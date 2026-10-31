@@ -9,5 +9,5 @@ We expect all contributors to:
 
 If you observe behavior that violates these principles, please report it privately via email.
 
-Contact: shamircrackerlab@gmail.com
+Contact: krunixbase@gmail.com
 
