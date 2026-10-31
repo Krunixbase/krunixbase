@@ -20,7 +20,7 @@ All materials published under the Krunixbase organization are provided for resea
 
 ## Contact:  
 
-- Email: (shamircrackerlab@gmail.com)
+- Email: (krunixbase@gmail.com)
 - GitHub: (https://github.com/krunixbase)  
 - Twitter (X): (https://twitter.com/shamircrackerlab) (twitter.com in Bing)
 
