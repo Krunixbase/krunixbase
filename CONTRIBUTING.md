@@ -9,4 +9,4 @@ If you wish to contribute:
 
 All contributions are reviewed manually.
 
-Contact: shamircrackerlab@gmail.com
+Contact: krunixbase@gmail.com
