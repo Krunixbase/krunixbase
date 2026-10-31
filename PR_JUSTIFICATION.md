@@ -22,4 +22,4 @@ This PR is internally consistent, legally defensible, and professionally present
 It establishes a strong foundation for long-term evolution and external adoption.
 
 – Andrzej Dobrucki  
-@shamircrackerlab
+@krunixbase
